@@ -19,6 +19,9 @@ html: $(PROJECT).md $(CSS_STYLE) | $(OUTDIR)
 	touch $(OUTDIR)/.nojekyll
 	pandoc $(PANDOC_ARGS) -o $(OUTDIR)/index.html $<
 
+serve: html
+	cd $(OUTDIR) && python -m http.server 8002
+
 clean:
 	rm -rf $(OUTDIR)
 
