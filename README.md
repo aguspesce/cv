@@ -1,10 +1,14 @@
 # Curriculum Vitae
 
-**Sources for building my academic CV**
-
 I create a simpler Markdown version of my CV.
 
-It basically uses `pandoc` for creating a html and pdf version of the CV with a [nice CSS stylesheet](https://blog.chmd.fr editing-a-cv-in-markdown-with-pandoc.html).
+**Sources for building my academic CV**
+
+Pdf versions of my CV are available in [English](https://aguspesce.github.io/cv/cv.pdf).
+
+A html version of the CV can be found at https://aguspesce.github.io/cv
+
+It basically uses `pandoc` for creating a html and pdf version of the CV with a [nice CSS stylesheet](https://blog.chmd.frediting-a-cv-in-markdown-with-pandoc.html).
 
 I got inspiration and knowledge for creating this workflow from:
 
