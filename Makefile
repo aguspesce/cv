@@ -2,7 +2,7 @@ PROJECT=cv
 PROJECT_ES=cv_es
 
 CSS_STYLE=style/style.css
-HTML_TEMPLATE=style/default.html
+HTML_TEMPLATE=style/template.html
 
 DATE="$(shell LANG="en_EN" && date "+%B %Y")"
 PANDOC_ARGS=--standalone --from markdown --to html5 --css $(CSS_STYLE) --metadata date=$(DATE) --template $(HTML_TEMPLATE)
