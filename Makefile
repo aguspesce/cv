@@ -1,5 +1,4 @@
 PROJECT=cv
-PROJECT_ES=cv_es
 
 CSS_STYLE=style/style.css
 HTML_TEMPLATE=style/template.html
