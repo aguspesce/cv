@@ -14,6 +14,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
+      - name: Update
+        uses: sudo apt-get update --fix-missing
       - name: Install dependencies
         run: sudo apt install make pandoc wkhtmltopdf
 
