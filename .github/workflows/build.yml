@@ -1,0 +1,37 @@
+name: build-cv
+
+on:
+  pull_request:
+  push:
+    banches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Update
+        uses: sudo apt-get update --fix-missing
+      - name: Install dependencies
+        run: sudo apt install make pandoc wkhtmltopdf
+
+      - name: Build CV-PDF
+        run: |
+          xvfb-run --auto-servernum make pdf
+
+      - name: Build CV-HTML
+        run: |
+          make html
+
+      - name: Deploy 🚀
+        if: success() && github.event_name == 'push'
+        # Don't use tags: https://julienrenaux.fr/2019/12/20/github-actions-security-risk/
+        uses: JamesIves/github-pages-deploy-action@049a95c516cd5723d8cfde79dc7a79fcdcbd6c97
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: _build
