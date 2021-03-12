@@ -1,8 +1,10 @@
 # Curriculum Vitae
 
-Sources for building my academic CV.
+An HTML version of the academic CV can be found at
+https://aguspesce.github.io/cv .
 
-[PDF versions](https://raw.githubusercontent.com/aguspesce/cv/gh-pages/cv.pdf) of my CV are available.
+My CV is also available in a
+[PDF versions](https://raw.githubusercontent.com/aguspesce/cv/gh-pages/cv.pdf).
 
 It uses `pandoc` for creating a html version of the CV with a
 [nice CSS stylesheet](https://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html),
