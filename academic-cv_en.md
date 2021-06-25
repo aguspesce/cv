@@ -12,15 +12,27 @@ margin-bottom: 30mm
 >
 > CONICET, Argentina
 >
-> <pesce.agustina@gmail.com> • [https://aguspesce.github.io](https://aguspesce.github.io) • ORCID: [0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845)
+> <pesce.agustina@gmail.com> • [https://aguspesce.github.io](https://aguspesce.github.io)
+
+> • ORCID: [0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845)
 
 ---
 
 ## Personal Information
 
-**Full name:** Agustina Pesce
+<!-- **Full name:** Agustina Pesce -->
+
+**Pronouns:** She/her
 
 **Birth date:** January 2, 1986, Argentina
+
+**GitHub:** [aguspesce](https://github.com/aguspesce/)
+
+**Personal Website:** [https://aguspesce.github.io](https://aguspesce.github.io)
+
+**Mail:** pesce.agustina@gmail.com
+
+**ORCID:** [0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845)
 
 ## Education
 
@@ -59,6 +71,14 @@ _Influence of a mantle plume in subduction zones by geodynamics numerical models
 
     _Co-Advaisor:_ Dr. Mario Gimenez ([IGSV](http://igsv.unsj.edu.ar/))
 
+Since 2019
+: **Mandyoc:** Mantle dynamics simulator code and **tapIOca:** Tools for
+transforming output files from Mandyoc code to dataset.
+
+    [Mandyoca](https://bitbucket.org/victorsacek/mandyoc/src/master/)
+
+    [Tapioca](https://github.com/aguspesce/tapioca)
+
 Since 2016
 : **Fatiando a Terra:** Open source tools for geophysics
 
@@ -71,6 +91,14 @@ Since 2014
 _FCEFyN, Universidad Nacional de San Juan, Argentina_
 
 ## Teaching
+
+2021
+: **Tutorial: Processing gravity data with Harmonica**,
+_Transform 2020, Software Underground_
+
+    [https://github.com/fatiando/transform21](https://github.com/fatiando/transform21)
+
+    Instructor
 
 Since 2019
 : **Physics I** and **Physics II**,
@@ -86,11 +114,6 @@ Universidad Nacional de San Juan_
 
     [https://santisoler.github.io/teaching/latex.html](https://santisoler.github.io/teaching/latex.html)
 
-2016-2017
-: **Permanent Educational Transfer Program**,
-_Facultad de Cs. Exactas, Físicas y Naturales, Universidad Nacional de San
-Juan, Argentina_
-
 ## Publications
 
 ### Peer-reviewed papers
@@ -102,7 +125,6 @@ _Tectonophysics_
     Gianni, G. M; García, H; Pesce, A; Lupari, M; González, M; Giambiagi, L.
 
     doi: [10.1016/j.tecto.2020.228402](https://doi.org/10.1016/j.tecto.2020.228402)
-    }
 
 2019
 : **The subduction of the Copiapó aseismic ridge, is the causing of the formation of metallic minerals deposits in north of Chile and Argentina?**,
@@ -220,6 +242,22 @@ _Andean Tectonics, Elsevier_
 
 ### Conference proceedings
 
+2021
+: **Fatiando a Terra: Open-source tools for geophysics**,
+_Online talk given to the Geophysical Society of Houston (GSH)_
+
+    Uieda, Leonardo; Soler, Santiago R. and Pesce, Agustina
+    [https://github.com/fatiando/2021-gsh](https://github.com/fatiando/2021-gsh)
+
+2021
+: **Harmonica and Boule: Modern Python tools for geophysical gravimetry**,
+_EGU2021 General Assembly_
+
+    Uieda, Leonardo; Soler, Santiago R.; Pesce, Agustina; Perozzi, Lorenzo and
+    Wieczorek, Mark A.
+
+    doi:[10.5194/egusphere-egu21-8291](https://doi.org/10.5194/egusphere-egu21-8291)
+
 2020
 : **Evaluation of the presence of a weak layer in the numerical simulation of lithospheric subduction**,
 _EGU2020 General Assembly_
@@ -294,10 +332,14 @@ Programming
 : Python, bash, FORTRAN, C
 
 Markup
-: Markdown, LaTeX, HTML, CSS, Boostrap
+: Markdown, LaTeX, HTML
+
+Style sheets and framework
+: CSS, Bootstrap, Milligram
 
 Tools
-: GNU/Linux, git, JupyterLab, Neovim, Inkscape, GIMP, office suite, maxima, bash tools.
+: GNU/Linux, git, bash tools, VS Code, Libre Office suite, Inkscape, GIMP,
+Krita, JupyterLab
 
 Geophysics tools
 : Oasis Montaj, GMT, “Fateando a Terra”
@@ -309,6 +351,14 @@ Spanish
 
 English
 : Intermediate
+
+## Communities
+
+Since 2020
+: [Geolatinas](https://geolatinas.weebly.com/)
+
+Since 2020
+: [Software Underground](https://softwareunderground.org/)
 
 ---
 
