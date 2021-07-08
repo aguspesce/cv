@@ -129,7 +129,7 @@ Diana Acero
 : Personal website, [https://dianaceroallard.github.io/](https://dianaceroallard.github.io/)
 
 Dashboard
-: Con los datos de COVID-19 a niivel nacional de la Argentina, [https://aguspesce.github.io/covid-ar/](https://aguspesce.github.io/covid-ar/)
+: Con los datos de COVID-19 a nivel nacional de la Argentina, [https://aguspesce.github.io/covid-ar/](https://aguspesce.github.io/covid-ar/)
 
 Dashboard
 : Con los datos de COVID-19 a nivel nacional y provincial de la Argentina utilizando _plotly_ y _dash_, [https://dashboard-covid-ar.herokuapp.com/](https://dashboard-covid-ar.herokuapp.com/)
