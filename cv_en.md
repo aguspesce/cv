@@ -15,8 +15,8 @@ margin-bottom: 15mm
 
 > <pesce.agustina@gmail.com> • 
 > [GitHub profile](https://github.com/aguspesce/) • 
-<!-- [https://aguspesce.github.io](https://aguspesce.github.io) -->
-> [ORCID: 0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845)
+[https://aguspesce.github.io](https://aguspesce.github.io)
+<!-- > [ORCID: 0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845) -->
 
 ---
 
