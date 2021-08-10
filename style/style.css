@@ -16,17 +16,23 @@ body {
   width: 800px;
   margin: auto;
   background: #ffffff;
-  padding: 10px 10px 10px 10px;
+  padding: 0px 0px 0px 0px;
   color: #201c36;
+  font-size: 12pt;
 }
 
 /* Title of the resume */
 h1 {
-  font-size: 55px;
+  font-size: 25pt;
   color: #6d5eb6;
   text-align: center;
   margin-bottom: 15px;
 }
+
+h2 {
+  font-size: ;
+}
+
 
 /* Titles of categories */
 h2,
@@ -56,7 +62,7 @@ h3:before {
 dt {
   float: left;
   clear: left;
-  width: 17%;
+  width: 20%;
   /*font-weight: bold;*/
 }
 dd {
@@ -76,7 +82,7 @@ blockquote {
 /* Links */
 a {
   text-decoration: none;
-  color: #998dee;
+  color: #7a6db8;
 }
 a:hover,
 a:active {
