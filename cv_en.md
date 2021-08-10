@@ -84,7 +84,7 @@ _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
 : A COVID-19 data visualization from Argentina.
 
 [Dashboard](https://dashboard-covid-ar.herokuapp.com/)
-: Dashboard for Argentina COVID-19 data using _plotly_ y _dash_.
+: Dashboard for Argentina COVID-19 data using _plotly_ and _dash_.
 
 [Garabatos](https://aguspesce.github.io/garabatos/)
 : A site for my paintings.
