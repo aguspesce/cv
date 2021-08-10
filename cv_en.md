@@ -84,7 +84,7 @@ _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
 : A COVID-19 data visualization from Argentina.
 
 [Dashboard](https://dashboard-covid-ar.herokuapp.com/)
-: Dashboard for Argentina COVID-19 data using _plotly_ y _dash_.
+: Dashboard for Argentina COVID-19 data using _plotly_ and _dash_.
 
 [Garabatos](https://aguspesce.github.io/garabatos/)
 : A site for my paintings.
@@ -96,10 +96,10 @@ _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
 
 [**Fatiando a Terra**](https://www.fatiando.org/) 
 
-: _Open source tools for geophysics_
+: _Open source tools for geophysics_ <br>
     Activities:
     
-    * Implementation of new methodology with unit tests and documentation 
+    * Implementation of new methodologies with unit tests and documentation 
     
     * Improvement of the main website project 
     
@@ -112,7 +112,7 @@ _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
     * Instructor assistant on Harmonica tutorial at [Transform21](https://github.com/fatiando/transform21)
 
 [**MANDYOC**](https://github.com/ggciag/mandyoc)
-: _Open source tool to simulate the mantle dynamics_ 
+: _Open source tool to simulate the mantle dynamics_  <br>
     Activities:
 
     * Automated deployment of the documentation website through GitHub Actions
@@ -122,13 +122,13 @@ _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
     * Wrote a Makefile for building and installing
 
 [**tapIOca**](https://github.com/aguspesce/tapioca)
-: _Tools for transforming output files from Mandyoc code to dataset_ 
+: _Tools for transforming output files from Mandyoc code to dataset_  <br>
     Activities:
 
     * Design and development of the library and its API
 
 **Dashboard**
-: _A COVID-19 data visualization_
+: _A COVID-19 data visualization_ <br>
     Activities:
 
     * Design and development of the libraries
@@ -153,7 +153,7 @@ Tools
 Krita, JupyterLab
 
 Geophysics tools
-: Oasis Montaj, GMT, “Fateando a Terra”
+: Oasis Montaj, GMT, Fatiando a Terra
 
 
 <!-- ## Research Experience

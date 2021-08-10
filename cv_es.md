@@ -117,7 +117,7 @@ _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
     * Instructora asistente en el tutorial de Harmonica en [Transform21](https://github.com/fatiando/transform21)
 
 [**MANDYOC**](https://github.com/ggciag/mandyoc)
-: _Open source tool to simulate the mantle dynamics_ 
+: _Open source tool to simulate mantle dynamics_ 
     Actividades:
 
     * Automatización de la pagina wb de documentación utilizando GitHub Actions

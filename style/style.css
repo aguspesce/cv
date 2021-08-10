@@ -33,7 +33,6 @@ h2 {
   font-size: ;
 }
 
-
 /* Titles of categories */
 h2,
 h3 {
@@ -99,4 +98,8 @@ hr {
 
 .footer {
   color: #aeaeae;
+}
+
+ul {
+  margin-top: 0;
 }
