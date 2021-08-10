@@ -153,7 +153,7 @@ Tools
 Krita, JupyterLab
 
 Geophysics tools
-: Oasis Montaj, GMT, “Fateando a Terra”
+: Oasis Montaj, GMT, Fatiando a Terra
 
 
 <!-- ## Research Experience
