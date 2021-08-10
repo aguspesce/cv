@@ -99,7 +99,7 @@ _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
 : _Open source tools for geophysics_ <br>
     Activities:
     
-    * Implementation of new methodology with unit tests and documentation 
+    * Implementation of new methodologies with unit tests and documentation 
     
     * Improvement of the main website project 
     
