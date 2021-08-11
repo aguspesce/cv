@@ -1,2 +1,7 @@
 _build
 _build-non-academic
+
+*.aux
+*.log
+*.out
+*.synctex.gz
