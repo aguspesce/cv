@@ -15,7 +15,7 @@ margin-bottom: 15mm
 
 > <pesce.agustina@gmail.com> • 
 > [GitHub profile](https://github.com/aguspesce/) • 
-[https://aguspesce.github.io](https://aguspesce.github.io)
+[https://aguspesce.github.io](Personal Website)
 <!-- > [ORCID: 0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845) -->
 
 ---
@@ -70,26 +70,26 @@ _[FCEFyN](https://exactas.unsj.edu.ar/), Universidad Nacional de San Juan, Argen
 : **Licentiate in Physics**,
 _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
 
-## Experience
+## Projects
 
 ### Web design and Development
 
-[Diana Acero](https://dianaceroallard.github.io/)
+[**Diana Acero**](https://dianaceroallard.github.io/)
 : Personal website.
 
-[Geolatinas coding group](https://geolatinas.github.io/)
+[**Geolatinas coding group**](https://geolatinas.github.io/)
 : A website to show what the coding group is and their activities.
 
-[Dashboard](https://aguspesce.github.io/covid-ar/)
+[**Dashboard**](https://aguspesce.github.io/covid-ar/)
 : A COVID-19 data visualization from Argentina.
 
-[Dashboard](https://dashboard-covid-ar.herokuapp.com/)
+[**Dashboard**](https://dashboard-covid-ar.herokuapp.com/)
 : Dashboard for Argentina COVID-19 data using _plotly_ and _dash_.
 
-[Garabatos](https://aguspesce.github.io/garabatos/)
+[**Garabatos**](https://aguspesce.github.io/garabatos/)
 : A site for my paintings.
 
-[CromoGráfica](https://aguspesce.github.io/web-cromografica/)
+[**CromoGráfica**](https://aguspesce.github.io/web-cromografica/)
 : Business website currently under development.
 
 ### Software Engineer and Data Scientist Experience
@@ -97,8 +97,7 @@ _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
 [**Fatiando a Terra**](https://www.fatiando.org/) 
 
 : _Open source tools for geophysics_ <br>
-    Activities:
-    
+       
     * Implementation of new methodologies with unit tests and documentation 
     
     * Improvement of the main website project 
@@ -113,8 +112,7 @@ _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
 
 [**MANDYOC**](https://github.com/ggciag/mandyoc)
 : _Open source tool to simulate the mantle dynamics_  <br>
-    Activities:
-
+    
     * Automated deployment of the documentation website through GitHub Actions
     
     * Community building (license, code of conduct, how to contribute guidelines, Readme)
@@ -123,19 +121,32 @@ _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
 
 [**tapIOca**](https://github.com/aguspesce/tapioca)
 : _Tools for transforming output files from Mandyoc code to dataset_  <br>
-    Activities:
-
+    
     * Design and development of the library and its API
 
-**Dashboard**
+**Dashboards**
 : _A COVID-19 data visualization_ <br>
-    Activities:
-
+    
     * Design and development of the libraries
 
     * Automated deployment of the website through GitHub Actions
 
-<!-- ## Skills -->
+
+## Experience
+
+2019 - 2021
+: **Postdoctoral researcher** at [IGSV](http://igsv.unsj.edu.ar/)
+ _by a [CONICET](https://www.conicet.gov.ar/) Postdoctoral scholarship._
+
+Since 2019
+: **Jefe de Trabajos Prácticos (assistant professor of practice)** in Physics I and Physics II,
+_Departamento de Geología, FCEFyN, Universidad Nacional de San Juan._
+
+
+2014 - 2019
+: **PhD student** at [IGSV](http://igsv.unsj.edu.ar/)
+ _by a [CONICET](https://www.conicet.gov.ar/) PhD scholarship._
+
 
 ## Technical Skills
 
@@ -154,51 +165,6 @@ Krita, JupyterLab
 
 Geophysics tools
 : Oasis Montaj, GMT, Fatiando a Terra
-
-
-<!-- ## Research Experience
-
-2019 - 2021
-: **Postdoctoral project**,
-_Influence of a mantle plume in subduction zones by geodynamics numerical models_
-
-Since 2019
-: [**Mandyoc:**](https://github.com/ggciag/mandyoc) Mantle dynamics simulator code and [**tapIOca:**](https://github.com/aguspesce/tapioca) Tools for transforming output files from Mandyoc code to dataset.
-    
-    Member and contributor
-
-Since 2016
-: [**Fatiando a Terra:**](https://www.fatiando.org/) Open source tools for geophysics
-
-    Member and contributor.
-
-2014 - 2021
-: **Researcher at [IGSV](http://igsv.unsj.edu.ar/)**,
-_FCEFyN, Universidad Nacional de San Juan, Argentina_ -->
-
-<!-- ## Teaching
-
-2021
-: **Tutorial: Processing gravity data with Harmonica**,
-_Transform 2020, Software Underground_
-
-    [https://github.com/fatiando/transform21](https://github.com/fatiando/transform21)
-
-    Instructor
-
-Since 2019
-: **Physics I** and **Physics II**,
-_Departamento de Geología, FCEFyN, Universidad Nacional de San Juan_
-
-    Jefe de Trabajos Prácticos (assistant professor of practice).
-
-2017
-: **Introductory course to LaTeX: How to produce high quality documents**,
-_Secretaría de Extensión,
-Facultad de Ciencias Exactas, Físicas y Naturales, Universidad Nacional de San Juan_
-
-    [https://santisoler.github.io/teaching/latex.html](https://santisoler.github.io/teaching/latex.html) -->
-
 
 ## Languages
 
