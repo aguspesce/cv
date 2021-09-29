@@ -23,6 +23,9 @@ jobs:
       - name: Build academic CV-PDF
         run: xvfb-run --auto-servernum make pdf_academic
 
+      - name: Build CV-PDF
+        run: xvfb-run --auto-servernum make pdf
+
       - name: Build CV-HTML
         run: make html
 

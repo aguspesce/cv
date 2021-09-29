@@ -1,9 +1,10 @@
 ---
 title: Agustina Pesce
-margin-left: 25mm
-margin-right: 25mm
-margin-top: 30mm
-margin-bottom: 30mm
+margin-left: 10mm
+margin-right: 10mm
+margin-top: 10mm
+margin-bottom: 15mm
+
 ---
 
 ---
@@ -13,14 +14,14 @@ margin-bottom: 30mm
 > CONICET, Argentina
 > -->
 
-> <pesce.agustina@gmail.com>
-> • [https://aguspesce.github.io](https://aguspesce.github.io)
-
-<!-- > • [ORCID: 0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845) -->
+<pesce.agustina@gmail.com> • 
+> [GitHub profile](https://github.com/aguspesce/) • 
+<!-- [https://aguspesce.github.io](https://aguspesce.github.io) -->
+> [ORCID: 0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845)
 
 ---
 
-## Sobre mí
+<!-- ## Sobre mí
 
 Luego de haber recibido mi título como Licenciada en Física me dedique a trabajar
 en [CONICET](https://www.conicet.gov.ar/) para obtener mi Doctorado en Geofísica.
@@ -38,17 +39,20 @@ Además, comencé a desarrollar [tapIOca](https://github.com/aguspesce/tapioca),
 el cual es un conjunto de herramientas de Python para cargar, visualizar y
 analizar los archivos de salida de Mandyoc.
 
+Ademas tambien he empezado ha involucrarme en el desarrollo de sitios web, 
+logrando desarrollar e implementar paginas para organizaciones (Geolatina coding
+group y Cromografica) y dashboard para mostrar la situación de la pandemia de 
+COVID-19 en Argentina (... y ...)
+
 Mi formación en física me proporcionó una base sólida para la construcción de
 mi conocimiento.
 Me permitió satisfacer mi curiosidad y desarrollarme como programadora
 autodidacta, ya que disfruto aprendiendo nuevas herramientas y mejorando mis
 habilidades.
 En todo camino recorrido hasta ahora, aprendí cómo resolver problemas de manera
-eficiente y aplicar las mejores prácticas para el desarrollo de software.
+eficiente y aplicar las mejores prácticas para el desarrollo de software. -->
 
-## Información Personal
-
-<!-- **Full name:** Agustina Pesce -->
+<!-- ## Información Personal
 
 **Fecha de nacimiento:** 02 de enero de 1986, Rosario, Santa Fe, Argentina
 
@@ -58,7 +62,7 @@ eficiente y aplicar las mejores prácticas para el desarrollo de software.
 
 **Mail:** pesce.agustina@gmail.com
 
-**ORCID:** [0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845)
+**ORCID:** [0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845) -->
 
 ## Educación
 
@@ -70,7 +74,74 @@ _[FCEFyN](https://exactas.unsj.edu.ar/), Universidad Nacional de San Juan, Argen
 : **Liciada en Física**,
 _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
 
-## Experiencia en Investigación
+## Experiencia
+
+### Dessarrollo Web
+
+[Diana Acero](https://dianaceroallard.github.io/)
+: Personal website.
+
+[Geolatinas coding group](https://geolatinas.github.io/)
+: Es sitio web para mostrar que es el grupo y las actividades que realizan.
+
+[Dashboard](https://aguspesce.github.io/covid-ar/)
+: Con los datos de COVID-19 a nivel nacional de la Argentina. 
+
+[Dashboard](https://dashboard-covid-ar.herokuapp.com/)
+: Con los datos de COVID-19 a nivel nacional y provincial de la Argentina utilizando _plotly_ y _dash_. 
+
+[Garabatos](https://aguspesce.github.io/garabatos/)
+: Website con mis dibujos.
+
+[CromoGráfica](https://aguspesce.github.io/web-cromografica/)
+: Website empresarial en desarrollo actualmente.
+
+###  Esperiencia en Software Engineer and Data Scientist 
+
+[**Fatiando a Terra**](https://www.fatiando.org/) 
+
+: _Open source tools for geophysics_
+    Actividades:
+    
+    * Implementación de nueva metodología con tests y documentación 
+    
+    * Mejoras en la pagina web principal del projecto
+    
+    * Tareas de mantenimiento (CI, tareas de automatización)
+    
+    * Participacion en las reuniones de diseño y comiunidad
+    
+    
+    * Expositora en [Geophysical Society of Houston](https://github.com/fatiando/2021-gsh)
+
+    * Instructora asistente en el tutorial de Harmonica en [Transform21](https://github.com/fatiando/transform21)
+
+[**MANDYOC**](https://github.com/ggciag/mandyoc)
+: _Open source tool to simulate mantle dynamics_ 
+    Actividades:
+
+    * Automatización de la pagina wb de documentación utilizando GitHub Actions
+    
+    * Escritura de los archivos para la comunidad(licencia, codigo de conducta, gia de contribución, Readme)
+
+    * Creación del MAkefile para compilación e instalación
+
+[**tapIOca**](https://github.com/aguspesce/tapioca)
+: _Tools for transforming output files from Mandyoc code to dataset_ 
+    Actividades:
+
+    * Diseño y escritura del la librería y su API
+
+**Dashboard**
+: _A COVID-19 data visualization_
+    Activities:
+
+    * Diseño y escritura del codigo
+
+    * Automatización de la creacion de la pagina web a travez de las GitHub Actions
+    
+
+<!-- ## Experiencia en Investigación
 
 2019 - 2022
 : **Proyecto Posdoctoral**,
@@ -89,6 +160,8 @@ transforming output files from Mandyoc code to dataset.
 
     [Tapioca](https://github.com/aguspesce/tapioca)
 
+    Miembro y contribuidora en el desarrollo.
+
 desde 2016
 : **Fatiando a Terra:** Open source tools for geophysics
 
@@ -98,9 +171,9 @@ desde 2016
 
 2014 - 2021
 : **Becaria en [IGSV](http://igsv.unsj.edu.ar/)**,
-_FCEFyN, Universidad Nacional de San Juan, Argentina_
+_FCEFyN, Universidad Nacional de San Juan, Argentina_ -->
 
-## Docencia
+<!-- ## Docencia
 
 2021
 : **Tutorial: Processing gravity data with Harmonica**,
@@ -121,24 +194,7 @@ _Departamento de Geología, FCEFyN, Universidad Nacional de San Juan_
 _Secretaría de Extensión,
 Facultad de Ciencias Exactas, Físicas y Naturales, Universidad Nacional de San Juan_
 
-    [https://santisoler.github.io/teaching/latex.html](https://santisoler.github.io/teaching/latex.html)
-
-## Dessarrollo Web
-
-Diana Acero
-: Personal website, [https://dianaceroallard.github.io/](https://dianaceroallard.github.io/)
-
-Dashboard
-: Con los datos de COVID-19 a nivel nacional de la Argentina, [https://aguspesce.github.io/covid-ar/](https://aguspesce.github.io/covid-ar/)
-
-Dashboard
-: Con los datos de COVID-19 a nivel nacional y provincial de la Argentina utilizando _plotly_ y _dash_, [https://dashboard-covid-ar.herokuapp.com/](https://dashboard-covid-ar.herokuapp.com/)
-
-Garabatos
-: Website con mis dibujos, [https://aguspesce.github.io/garabatos/](https://aguspesce.github.io/garabatos/)
-
-CromoGráfica
-: Website empresarial en desarrollo actualmente, [https://aguspesce.github.io/web-cromografica/](https://aguspesce.github.io/web-cromografica/)
+    [https://santisoler.github.io/teaching/latex.html](https://santisoler.github.io/teaching/latex.html) -->
 
 <!-- ## Skills -->
 
@@ -168,7 +224,7 @@ Español
 Ingles
 : Intermedio
 
-## Premios y Becas
+<!-- ## Premios y Becas
 
 2019 - 2022
 : Beca Posdoctoral de [CONICET](https://www.conicet.gov.ar/)
@@ -177,7 +233,7 @@ Ingles
 : Beca Doctoral de [CONICET](https://www.conicet.gov.ar/)
 
 2015
-: Travel grant: SEG/ExxonMobil Student Education Program (SEP), New Orleans, EE.UU.
+: Travel grant: SEG/ExxonMobil Student Education Program (SEP), New Orleans, EE.UU. -->
 
 ## Comunidades
 
@@ -187,8 +243,12 @@ desde 2020
 desde 2020
 : [Software Underground](https://softwareunderground.org/)
 
----
+desde 2016
+: [Fatiando a Terra](https://www.fatiando.org/)
 
+
+---
+<!-- 
 > <pesce.agustina@gmail.com> • [https://aguspesce.github.io](https://aguspesce.github.io)
 
-> • [ORCID: 0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845)
+> • [ORCID: 0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845) -->

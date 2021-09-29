@@ -3,8 +3,7 @@ HTML_TEMPLATE=style/template.html
 DATE="$(shell LANG="en_EN" && date "+%B %Y")"
 PANDOC_ARGS=--standalone --from markdown --to html5 --css $(CSS_STYLE) --metadata date=$(DATE) --template $(HTML_TEMPLATE)
 
-OUT_DIR_ACADEMIC=_build
-OUT_DIR=_build-non-academic
+OUT_DIR=_build
 
 help:
 	@echo ""
@@ -15,25 +14,24 @@ help:
 	@echo "  clean          clean up puild and generated files."
 
 
-html: academic-cv_en.md $(CSS_STYLE) | $(OUT_DIR_ACADEMIC)
-	cp -rf style $(OUT_DIR_ACADEMIC)
-	touch $(OUT_DIR_ACADEMIC)/.nojekyll
-	pandoc $(PANDOC_ARGS) -o $(OUT_DIR_ACADEMIC)/index.html $<
+html: academic-cv_en.md $(CSS_STYLE) | $(OUT_DIR)
+	cp -rf style $(OUT_DIR)
+	touch $(OUT_DIR)/.nojekyll
+	pandoc $(PANDOC_ARGS) -o $(OUT_DIR)/index.html $<
 	@echo ""
-	@echo "HTML file created in $(OUT_DIR_ACADEMIC)"
+	@echo "HTML file created in $(OUT_DIR)"
 
 serve: html
-	cd $(OUT_DIR_ACADEMIC) && python -m http.server 8002
+	cd $(OUT_DIR) && python -m http.server 8002
 
 clean:
-	rm -rf $(OUT_DIR_ACADEMIC)
 	rm -rf $(OUT_DIR)
 
-pdf_academic: academic_pdf_es academic_pdf_en
+pdf_academic: academic_pdf_en
 	@echo ""
 	@echo "Academic CV created in $(OUT_DIR_ACADEMIC)"
 
-pdf: pdf_es pdf_en
+pdf: pdf_en
 	@echo ""
 	@echo "Non academic CV created in $(OUT_DIR)"
 
@@ -41,17 +39,11 @@ pdf: pdf_es pdf_en
 $(OUT_DIR):
 	mkdir $(OUT_DIR)
 
-$(OUT_DIR_ACADEMIC):
-	mkdir $(OUT_DIR_ACADEMIC)
 
-academic_pdf_es: $(OUT_DIR_ACADEMIC)/academic-cv_es.pdf
+academic_pdf_en: $(OUT_DIR)/academic-cv_en.pdf
 
-academic_pdf_en: $(OUT_DIR_ACADEMIC)/academic-cv_en.pdf
-
-$(OUT_DIR_ACADEMIC)/%.pdf: %.md | $(OUT_DIR_ACADEMIC)
+$(OUT_DIR)/%.pdf: %.md | $(OUT_DIR)
 	pandoc $(PANDOC_ARGS) -o $@ $<
-
-pdf_es: $(OUT_DIR)/cv_es.pdf
 
 pdf_en: $(OUT_DIR)/cv_en.pdf
 
