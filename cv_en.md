@@ -134,7 +134,7 @@ _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
 
 ## Experience
 
-2019 - 2021
+2019 - March 2022
 : **Postdoctoral researcher** at [IGSV](http://igsv.unsj.edu.ar/)
  _by a [CONICET](https://www.conicet.gov.ar/) Postdoctoral scholarship._
 
@@ -186,6 +186,9 @@ English
 : Travel grant: SEG/ExxonMobil Student Education Program (SEP), New Orleans, EE.UU. -->
 
 ## Communities
+
+Since 2021
+: [Las de Sistema](https://lasdesistemas.org/)
 
 Since 2020
 : [Geolatinas](https://geolatinas.weebly.com/)
