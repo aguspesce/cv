@@ -1,7 +1,12 @@
 _build
 _build-non-academic
+_*
 
 *.aux
 *.log
 *.out
 *.synctex.gz
+*.pdf
+*.tex
+cv_es.md
+academic-cv_es.md
