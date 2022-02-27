@@ -20,9 +20,6 @@ jobs:
       - name: Install dependencies
         run: sudo apt install make pandoc wkhtmltopdf
 
-      - name: Build academic CV-PDF
-        run: xvfb-run --auto-servernum make pdf_academic
-
       - name: Build CV-PDF
         run: xvfb-run --auto-servernum make pdf
 
