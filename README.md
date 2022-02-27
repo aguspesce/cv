@@ -4,7 +4,7 @@ An HTML version of the academic CV can be found at
 https://aguspesce.github.io/cv .
 
 My CV is also available in a
-[PDF versions](https://raw.githubusercontent.com/aguspesce/cv/gh-pages/cv.pdf).
+[PDF versions](https://raw.githubusercontent.com/aguspesce/cv/gh-pages/cv_en.pdf).
 
 It uses `pandoc` for creating a html version of the CV with a
 [nice CSS stylesheet](https://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html),
