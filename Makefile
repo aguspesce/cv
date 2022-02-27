@@ -8,8 +8,7 @@ OUT_DIR=_build
 help:
 	@echo ""
 	@echo "  html           generate the html file for the academic CV in English."
-	@echo "  pdf_academic   generate the pdf files for the academic CV."
-	@echo "  pdf            generate the pdf fils for  the non-academic CV."
+	@echo "  pdf		    generate the pdf files for the academic CV."
 	@echo "  server  "
 	@echo "  clean          clean up puild and generated files."
 
@@ -27,25 +26,18 @@ serve: html
 clean:
 	rm -rf $(OUT_DIR)
 
-pdf_academic: academic_pdf_en
-	@echo ""
-	@echo "Academic CV created in $(OUT_DIR_ACADEMIC)"
-
 pdf: pdf_en
 	@echo ""
-	@echo "Non academic CV created in $(OUT_DIR)"
-
+	@echo "CV created in $(OUT_DIR_ACADEMIC)"
 
 $(OUT_DIR):
 	mkdir $(OUT_DIR)
 
 
-academic_pdf_en: $(OUT_DIR)/academic-cv_en.pdf
+pdf_en: $(OUT_DIR)/cv_en.pdf
 
 $(OUT_DIR)/%.pdf: %.md | $(OUT_DIR)
 	pandoc $(PANDOC_ARGS) -o $@ $<
-
-pdf_en: $(OUT_DIR)/cv_en.pdf
 
 $(OUT_DIR)/%.pdf: %.md | $(OUT_DIR)
 	pandoc $(PANDOC_ARGS) -o $@ $<
