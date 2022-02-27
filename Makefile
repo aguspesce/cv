@@ -13,7 +13,7 @@ help:
 	@echo "  clean          clean up puild and generated files."
 
 
-html: academic-cv_en.md $(CSS_STYLE) | $(OUT_DIR)
+html: cv_en.md $(CSS_STYLE) | $(OUT_DIR)
 	cp -rf style $(OUT_DIR)
 	touch $(OUT_DIR)/.nojekyll
 	pandoc $(PANDOC_ARGS) -o $(OUT_DIR)/index.html $<
