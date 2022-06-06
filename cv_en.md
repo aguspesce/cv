@@ -192,11 +192,13 @@ Universidad Nacional de San Juan, Argentina_
 
 ### Peer-reviewed papers
 
-2021 - Under revision
+2022
 : **Mandyoc: A finite element code to simulate thermochemical convection in parallel**,
-_Journal of Open-Source Software_
+_Journal of Open-Source Software_, 7(71), 4070
 
     Sacek, V; Assunção, J; Pesce, A; Monteiro da Silva, R
+
+    [https://joss.theoj.org/papers/10.21105/joss.04070.pdf](https://joss.theoj.org/papers/10.21105/joss.04070.pdf)
 
 2021
 : **Sección eléctrica cortical a través de la fosa de Loncopué**,
