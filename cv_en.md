@@ -8,31 +8,31 @@ margin-bottom: 20mm
 
 ---
 
-> Instituto Geofísico y Sismológico Volponi, Universidad Nacional de San Juan
+<!-- > Instituto Geofísico y Sismológico Volponi, Universidad Naciohal de San Juan -->
+
 >
-> CONICET, Argentina
->
-> GitHub: [aguspesce](https://github.com/aguspesce/) • Mail: <pesce.agustina@gmail.com>
->
-> Website: [aguspesce.github.io](https://aguspesce.github.io) • ORCID: [0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845)
+
+!-- > CONICET, Argentina -->
+
+> <pesce.agustina@gmail.com> • [https://aguspesce.github.io](https://aguspesce.github.io)
 
 ---
 
-<!-- ## Personal Information
+## Personal Information
 
 **Full name:** Agustina Pesce
 
 **Pronouns:** She/her
 
-<!--**Birth date:** January 2, 1986, Argentina
+<!-- **Birth date:** January 2, 1986, Argentina -->
 
-<!--**GitHub:** [aguspesce](https://github.com/aguspesce/)
+**GitHub:** [aguspesce](https://github.com/aguspesce/)
 
-**Personal Website:** [https://aguspesce.github.io](https://aguspesce.github.io)
+<!-- **Personal Website:** [https://aguspesce.github.io](https://aguspesce.github.io) -->
 
-**Mail:** pesce.agustina@gmail.com
+<!-- **Mail:** pesce.agustina@gmail.com -->
 
-**ORCID:** [0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845) -->
+**ORCID:** [0000-0002-5538-8845](https://orcid.org/0000-0002-5538-8845)
 
 ## Education
 
