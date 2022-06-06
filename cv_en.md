@@ -47,14 +47,14 @@ _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
 ## Appointments
 
 Since Nov. 2021
-: **Coding Coordinator and Trainer** in Code to Comunicate Program
+: **Coding Coordinator and Trainer** in Code to Communicate Program
 ([CoCo](https://twitter.com/CodeCommunicate/))
 
 Since 2019
 : **Assistant Professor of practice**, Geology Department,
 [FCEFyN](https://exactas.unsj.edu.ar/), Universidad Nacional de San Juan, Argentina
 
-2019 - present
+2019 - March 2022
 : **Postdoctoral Researcher**, [IGSV](http://igsv.unsj.edu.ar/),
 _Influence of a mantle plume in subduction zones by geodynamics numerical models_
 
