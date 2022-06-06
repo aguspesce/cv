@@ -425,7 +425,7 @@ San Juan, Argentina_
 ## Technical Skills
 
 Programming
-: Python, bash, FORTRAN, C
+: Python, Numba, bash, FORTRAN, C
 
 Markup
 : Markdown, LaTeX, HTML
