@@ -8,7 +8,7 @@ margin-bottom: 20mm
 
 ---
 
-<!-- > Instituto Geofísico y Sismológico Volponi, Universidad Naciohal de San Juan -->
+<!-- > Instituto Geofísico y Sismológico Volponi, Universidad Nacional de San Juan -->
 
 >
 
@@ -28,7 +28,7 @@ margin-bottom: 20mm
 
 **GitHub:** [aguspesce](https://github.com/aguspesce/)
 
-<!-- **Personal Website:** [https://aguspesce.github.io](https://aguspesce.github.io) -->
+**Personal Website:** [https://aguspesce.github.io](https://aguspesce.github.io)
 
 <!-- **Mail:** pesce.agustina@gmail.com -->
 
@@ -46,11 +46,16 @@ _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
 
 ## Appointments
 
+Since June 2022
+: **Maintainer of one of the core lessons of [The Carpentries](https://carpentries.org/maintainers/)**
+
+    [Análisis y visualización de datos usando Python](https://datacarpentry.org/python-ecology-lesson-es/)
+
 Since Nov. 2021
 : **Coding Coordinator and Trainer** in Code to Communicate Program
 ([CoCo](https://twitter.com/CodeCommunicate/))
 
-Since 2019
+2019 - March 2022
 : **Assistant Professor of practice**, Geology Department,
 [FCEFyN](https://exactas.unsj.edu.ar/), Universidad Nacional de San Juan, Argentina
 
@@ -75,8 +80,11 @@ _Influence of a mantle plume in subduction zones by geodynamics numerical models
 
 ## Certifications
 
+2022
+: [Maintainer for The Carpentry](https://carpentries.org/maintainers)
+
 2021
-: Certified Software Carpentry Instructor
+: [Certified Carpentry Instructor](https://carpentries.org/instructors/)
 
 ## Open-source Software
 
@@ -137,7 +145,7 @@ Since 2016
 [**Dashboard**](https://dashboard-covid-ar.herokuapp.com/)
 : Dashboard for Argentina COVID-19 data using _plotly_ and _dash_.
 
-[**Garabatos**](https://aguspesce.github.io/garabatos/)
+[**Garabatos**](https://github.com/aguspesce/garabatos)
 : A site for my paintings.
 
 [**CromoGráfica**](https://aguspesce.github.io/web-cromografica/)
@@ -159,7 +167,7 @@ _Departamento de Geología, FCEFyN, Universidad Nacional de San Juan_
 
 2022
 : **Mandyoc: A finite element code to simulate thermochemical convection in parallel**
-for _[Transform 2022](https://transform.softwareunderground.org/2022-mandyoc)_
+presented at _[Transform 2022](https://transform.softwareunderground.org/2022-mandyoc)_
 
     [https://www.youtube.com/watch?v=wzrIF4zpshM&feature=emb_title](https://www.youtube.com/watch?v=wzrIF4zpshM&feature=emb_title)
 
@@ -170,19 +178,19 @@ for _[CoCo Program](https://twitter.com/CodeCommunicate/)_
     [https://github.com/CodeToCommunicate/CoCoLessons](https://github.com/CodeToCommunicate/CoCoLessons)
 
 2021
-: **Introduction to Git and GitHub**,
-_[GeoLatinas](https://geolatinas.weebly.com/)_
+: **Introduction to Git and GitHub**
+for _[GeoLatinas](https://geolatinas.weebly.com/)_
 
     [https://github.com/GeoLatinas/intro-to-git-2021](https://github.com/GeoLatinas/intro-to-git-2021)
 
 2021
-: **Tutorial: Processing gravity data with Harmonica**,
-_Transform 2020, Software Underground_
+: **Tutorial: Processing gravity data with Harmonica**
+presented at _Transform 2020, Software Underground_
 
     [https://github.com/fatiando/transform21](https://github.com/fatiando/transform21)
 
 2020
-: **How to manage multi-dimensional arrays?**,
+: **How to manage multi-dimensional arrays?**
 _Online seminar of the laboratorio de tectonofisica from [IAG-USP](http://iag.usp.br/)_
 
     [https://github.com/aguspesce/online_seminar_IAG-USP](https://github.com/aguspesce/online_seminar_IAG-USP)
