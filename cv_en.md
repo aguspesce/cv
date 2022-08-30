@@ -1,5 +1,5 @@
 ---
-title: Agustina Pesce
+title: Agustina Pesce Lopez
 margin-left: 25mm
 margin-right: 25mm
 margin-top: 20mm
@@ -20,7 +20,7 @@ margin-bottom: 20mm
 
 ## Personal Information
 
-**Full name:** Agustina Pesce
+**Full name:** Agustina Pesce Lopez
 
 **Pronouns:** She/her
 
