@@ -44,24 +44,28 @@ _[FCEFyN](https://exactas.unsj.edu.ar/), Universidad Nacional de San Juan, Argen
 : **Licentiate in Physics**,
 _[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
 
-## Appointments
+## Professional Appointments
 
 Since June 2022
 : **Maintainer of one of the core lessons of [The Carpentries](https://carpentries.org/maintainers/)**
 
-    [Análisis y visualización de datos usando Python](https://datacarpentry.org/python-ecology-lesson-es/)
+    _[Análisis y visualización de datos usando Python](https://datacarpentry.org/python-ecology-lesson-es/)_
 
 Since Nov. 2021
 : **Coding Coordinator and Trainer** in Code to Communicate Program
-([CoCo](https://twitter.com/CodeCommunicate/))
+([CoCo](https://twitter.com/CodeCommunicate/)).
+
+    _CoCo is a NSF-funded bilingual program for grad-student_
 
 2019 - March 2022
 : **Assistant Professor of practice**, Geology Department,
 [FCEFyN](https://exactas.unsj.edu.ar/), Universidad Nacional de San Juan, Argentina
 
 2019 - March 2022
-: **Postdoctoral Researcher**, [IGSV](http://igsv.unsj.edu.ar/),
-_Influence of a mantle plume in subduction zones by geodynamics numerical models_
+: **Postdoctoral Researcher**,
+[Instituto Geofísico Sismológico Volponi](http://igsv.unsj.edu.ar/)
+
+    _Influence of a mantle plume in subduction zones by geodynamics numerical models_
 
     _Advisor:_ Dr. Victor Sacek ([IAG-USP](http://iag.usp.br/))
 
@@ -155,12 +159,12 @@ Since 2016
 
 ### Undergraduate Courses
 
-Since 2019
-: **Physics I**,
+2019 - 2022
+: **Assistant professor in Physics I**,
 _Departamento de Geología, FCEFyN, Universidad Nacional de San Juan_
 
-Since 2019
-: **Physics II**,
+2019 - 2022
+: **Assistant professor in Physics II**,
 _Departamento de Geología, FCEFyN, Universidad Nacional de San Juan_
 
 ### Workshops and Tutorials
@@ -473,6 +477,9 @@ English
 
 Since 2021
 : [Las de Sistema](https://lasdesistemas.org/)
+
+Since 2021
+: [The Carpentries](https://carpentries.org/)
 
 Since 2020
 : [Geolatinas](https://geolatinas.weebly.com/)
