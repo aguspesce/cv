@@ -38,11 +38,13 @@ margin-bottom: 20mm
 
 2014 - 2019
 : **PhD in Geophysics**,
-_[FCEFyN](https://exactas.unsj.edu.ar/), Universidad Nacional de San Juan, Argentina_
+_[Facultad de Ciencias Exactas, Físicas y Naturales](https://exactas.unsj.edu.ar/),
+Universidad Nacional de San Juan, Argentina_
 
 2005 - 2014
 : **Licentiate in Physics**,
-_[FCEIA](https://web.fceia.unr.edu.ar/es/), Universidad Nacional de Rosario_
+_[Facultad de Ciencias Exactas, Ingeniería y Agrimensura](https://web.fceia.unr.edu.ar/es/),
+Universidad Nacional de Rosario, Argentina_
 
 ## Professional Appointments
 
@@ -57,9 +59,27 @@ Since Nov. 2021
 
     _CoCo is a NSF-funded bilingual program for grad-student_
 
+    Key responsibilities:
+
+      - Creating the content which will be taught during the coding sessions
+      - Participating in biweekly discussions to go over pending items on the list
+      - Participate in course content development meetings
+      - Translation of different documents
+      - Different tasks to create a good foundation for this program
+      - Teach the course content
+      - Attend the trainers orientation session
+
 2019 - March 2022
 : **Assistant Professor of practice**, Geology Department,
 [FCEFyN](https://exactas.unsj.edu.ar/), Universidad Nacional de San Juan, Argentina
+
+    Key responsibilities:
+
+      - Lead, supervise and evaluate student work and laboratory practices
+      - Help with the course preparatio and participate un the teaching courses
+      - Be responsible for the preparation and conservation of the laboratory material
+      - Teach practical classes if the Professor requires it
+      - Attend and collaborate in the final exams
 
 2019 - March 2022
 : **Postdoctoral Researcher**,
@@ -74,10 +94,10 @@ Since Nov. 2021
 ## Awards and Scholarships
 
 2019 - 2022
-: [CONICET](https://www.conicet.gov.ar/) Postdoctoral Scholarship
+: Postdoctoral Scholarship from [CONICET](https://www.conicet.gov.ar/)
 
 2014 - 2019
-: [CONICET](https://www.conicet.gov.ar/) PhD Scholarship
+: Phd scholarship from [CONICET](https://www.conicet.gov.ar/)
 
 2015
 : Travel grants: SEG/ExxonMobil Student Education Program (SEP), New Orleans, EE.UU.
@@ -95,13 +115,22 @@ Since Nov. 2021
 ### Software Engineer and Data Scientist Experience
 
 2020
-: **Dashboards**
+: [**Dashboard using Python and GitHub pages**](https://aguspesce.github.io/covid-ar/)
 
     _A COVID-19 data visualization_
 
     * Design and development of the libraries
 
     * Automated deployment of the website through GitHub Actions
+
+2020
+: [**Dashboard using plotly and herokuapp**](https://dashboard-covid-ar.herokuapp.com/)
+
+    _A COVID-19 data visualization_
+
+    * Design and development of the libraries
+
+    * Automated deployment of the website
 
 Since 2019
 : [**MANDYOC**](https://github.com/ggciag/mandyoc)
@@ -460,7 +489,8 @@ Graphic Design
 : Inkscape, GIMP, Krita
 
 Other tools
-: Libre Office suite, JupyterLab, Jupyter Notebooks, GitHub
+: Libre Office suite, JupyterLab, Jupyter Notebooks, GitHub, Google Cloud
+Platform
 
 Geophysics tools
 : Oasis Montaj, GMT, “Fateando a Terra”
