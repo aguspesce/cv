@@ -55,19 +55,20 @@ Since June 2022
 
 Since Nov. 2021
 : **Coding Coordinator and Trainer** in Code to Communicate Program
-([CoCo](https://twitter.com/CodeCommunicate/)).
+([CoCo](https://www.codecommunicate.org/)).
 
     _CoCo is a NSF-funded bilingual program for grad-student_
 
     Key responsibilities:
 
-      - Creating the content which will be taught during the coding sessions
-      - Participating in biweekly discussions to go over pending items on the list
-      - Participate in course content development meetings
+      - Participate in different tasks to create a good foundation for the program
       - Translation of different documents
-      - Different tasks to create a good foundation for this program
-      - Teach the course content
-      - Attend the trainers orientation session
+      - Develop the content which will be taught during the coding sessions
+      - Participate in course content development meetings
+      - Organize the coding and Geohacking session
+      - Organize and supervise coding trainers
+      - Teach part of the course content
+      - Attend and organize the trainers orientation session
 
 2019 - March 2022
 : **Assistant Professor of practice**, Geology Department,
@@ -124,7 +125,7 @@ Since Nov. 2021
     * Automated deployment of the website through GitHub Actions
 
 2020
-: [**Dashboard using plotly and herokuapp**](https://dashboard-covid-ar.herokuapp.com/)
+: [**Dashboard using Plotly and Heroku**](https://dashboard-covid-ar.herokuapp.com/)
 
     _A COVID-19 data visualization_
 
@@ -235,7 +236,7 @@ Universidad Nacional de San Juan, Argentina_
 
     [https://santisoler.github.io/teaching/latex.html](https://santisoler.github.io/teaching/latex.html)
 
-## Publications
+## Last Publications
 
 ### Peer-reviewed papers
 
@@ -263,86 +264,84 @@ _Tectonophysics_
 
     doi: [10.1016/j.tecto.2020.228402](https://doi.org/10.1016/j.tecto.2020.228402)
 
-2019
-: **The subduction of the Copiapó aseismic ridge, is the causing of the formation of metallic minerals deposits in north of Chile and Argentina?**,
-_Geodesy and Geodynamics_
+<!-- 2019 -->
+<!-- : **The subduction of the Copiapó aseismic ridge, is the causing of the formation of metallic minerals deposits in north of Chile and Argentina?**, -->
+<!-- _Geodesy and Geodynamics_ -->
+<!---->
+<!--     Gimenez,M; Acosta,G; Alvarez, O; Pesce, A; Lince Kinger, F; Folguera A. -->
+<!---->
+<!--     doi: [10.1016/j.geog.2019.04.007](https://doi.org/10.1016/j.geog.2019.04.007) -->
+<!---->
+<!-- 2019 -->
+<!-- : **Gravitational field calculation in spherical coordinates using variable densities in depth**, -->
+<!-- _Geophysical Journal International_ -->
+<!---->
+<!--     Soler, S; Pesce, A; Gimenez, M; Uieda, L. -->
+<!---->
 
-    Gimenez,M; Acosta,G; Alvarez, O; Pesce, A; Lince Kinger, F; Folguera A.
-
-    doi: [10.1016/j.geog.2019.04.007](https://doi.org/10.1016/j.geog.2019.04.007)
-
-2019
-: **Gravitational field calculation in spherical coordinates using variable densities in depth**,
-_Geophysical Journal International_
-
-    Soler, S; Pesce, A; Gimenez, M; Uieda, L.
-
-    doi: [10.1093/gji/ggz277](https://doi.org/10.1093/gji/ggz277)
-
-2019
-: **Magnetic characterization of a retroarc extensional basin: The Loncopué Trough**,
-_Journal of South American Earth Sciences_
-
-    Pesce, A; Gianni, G; Giménez, M. E; Folguera, A
-
-    doi: [10.1016/j.jsames.2018.11.00](https://doi.org/10.1016/j.jsames.2018.11.00)
-
-2019
-: **Modelo preliminar 3-D de susceptibilidad magnética del volcán Tromen**,
-_Revista de la Asociación Geológica Argentina_, 76(1),687-692.
-
-    Pesce, A; Lupari, M; Gianni, G; Nacif, S; Gimenez, M
-
-    [https://revista.geologica.org.ar/raga/article/view/129](https://revista.geologica.org.ar/raga/article/view/129)
-
-2018
-: **Modelado gravimetrico 3D de da Corteza Superior de da subcuenca Palauco y alrededores, sur se Mendoza, Argentina**,
-_Revista de la Asociación Geológica Argentina_, 75(4), 584-591.
-
-    Lupari, M; Pesce, A; Leiva, F; Gonzales,M. A; Nacif, S; Alvarez, O;
-    Gimenez, M; Lavecchia, J; Folguera, A
-
-    [https://ppct.caicyt.gov.ar/index.php/raga/article/view/13112](https://ppct.caicyt.gov.ar/index.php/raga/article/view/13112)
-
-2018
-: **Transient plate contraction between two simultaneous slab windows: Insights from Paleogene tectonics of the Patagonian Andes**,
-_Journal of Geodynamic_
-
-    Gianni, G; Pesce, A; Soler, S. R
-
-    doi: [10.1016/j.jog.2018.07.008](https://doi.org/10.1016/j.jog.2018.07.008)
-
-2018
-: **Intraplate seismicity recorded by a local network in the Neuquen Basin Argentina**.
-_Journal of South American Earth Sciences_
-
-    Correa-Otto, S; Nacif, S; Pesce, A; Nacif, A; Gianni, G; Furlani, R; Giménez,M; Ruiz,F
-
-    doi: [10.1016/j.jsames.2017.12.007](https://doi.org/10.1016/j.jsames.2017.12.007)
-
-2018
-: **3-D crustal-scale gravity model of the San Rafael Block and Payenia volcanic province in Mendoza, Argentina**,
-_Geoscience Frontiers_
-
-    Richarte, D; Lupari, M; Pesce, A; Nacif, S; Gimenez, M
-
-    doi: [10.1016/j.gsf.2017.03.004](https://doi.org/10.1016/j.gsf.2017.03.004)
-
-2017
-: **Plume overriding triggers shallow subduction and orogeny in the Southern Central Andes**,
-_Gondwana Research_
-
-    Gianni, G; García, H; Lupari, M; Pesce, A; Folguera, A
-
-    doi: [10.1016/j.gr.2017.06.011](https://doi.org/10.1016/j.gr.2017.06.011)
-
-2017
-: **Analysis of the Illapel Mw=8.3 thrust earthquake rupture zone using GOCE derived gradients**,
-_Pure and Applied Geophysics_
-
-    Álvarez, O; Pesce, A; Gimenez, M; Folguera, A; Soler, S; Wenjin Chen
-
-    doi: [10.1007/s00024-016-1376-y](https://doi.org/10.1007/s00024-016-1376-y)
+<!-- 2019 -->
+<!-- : **Magnetic characterization of a retroarc extensional basin: The Loncopué Trough**, -->
+<!-- _Journal of South American Earth Sciences_ -->
+<!---->
+<!--     Pesce, A; Gianni, G; Giménez, M. E; Folguera, A -->
+<!---->
+<!--     doi: [10.1016/j.jsames.2018.11.00](https://doi.org/10.1016/j.jsames.2018.11.00) -->
+<!---->
+<!-- 2019 -->
+<!-- : **Modelo preliminar 3-D de susceptibilidad magnética del volcán Tromen**, -->
+<!-- _Revista de la Asociación Geológica Argentina_, 76(1),687-692. -->
+<!---->
+<!--     Pesce, A; Lupari, M; Gianni, G; Nacif, S; Gimenez, M -->
+<!---->
+<!--     [https://revista.geologica.org.ar/raga/article/view/129](https://revista.geologica.org.ar/raga/article/view/129) -->
+<!---->
+<!-- 2018 -->
+<!-- : **Modelado gravimetrico 3D de da Corteza Superior de da subcuenca Palauco y alrededores, sur se Mendoza, Argentina**, -->
+<!-- _Revista de la Asociación Geológica Argentina_, 75(4), 584-591. -->
+<!---->
+<!--     Lupari, M; Pesce, A; Leiva, F; Gonzales,M. A; Nacif, S; Alvarez, O; -->
+<!--     Gimenez, M; Lavecchia, J; Folguera, A -->
+<!---->
+<!--     [https://ppct.caicyt.gov.ar/index.php/raga/article/view/13112](https://ppct.caicyt.gov.ar/index.php/raga/article/view/13112) -->
+<!---->
+<!-- 2018 -->
+<!-- : **Transient plate contraction between two simultaneous slab windows: Insights from Paleogene tectonics of the Patagonian Andes**, -->
+<!-- _Journal of Geodynamic_ -->
+<!---->
+<!--     Gianni, G; Pesce, A; Soler, S. R -->
+<!---->
+<!--     doi: [10.1016/j.jog.2018.07.008](https://doi.org/10.1016/j.jog.2018.07.008) -->
+<!---->
+<!-- 2018 -->
+<!-- : **Intraplate seismicity recorded by a local network in the Neuquen Basin Argentina**. -->
+<!-- _Journal of South American Earth Sciences_ -->
+<!---->
+<!--     Correa-Otto, S; Nacif, S; Pesce, A; Nacif, A; Gianni, G; Furlani, R; Giménez,M; Ruiz,F -->
+<!---->
+<!--     doi: [10.1016/j.jsames.2017.12.007](https://doi.org/10.1016/j.jsames.2017.12.007) -->
+<!---->
+<!-- 2018 -->
+<!-- : **3-D crustal-scale gravity model of the San Rafael Block and Payenia volcanic province in Mendoza, Argentina**, -->
+<!-- _Geoscience Frontiers_ -->
+<!---->
+<!--     Richarte, D; Lupari, M; Pesce, A; Nacif, S; Gimenez, M -->
+<!---->
+<!--     doi: [10.1016/j.gsf.2017.03.004](https://doi.org/10.1016/j.gsf.2017.03.004) -->
+<!---->
+<!-- 2017 -->
+<!-- : **Plume overriding triggers shallow subduction and orogeny in the Southern Central Andes**, -->
+<!-- _Gondwana Research_ -->
+<!---->
+<!--     Gianni, G; García, H; Lupari, M; Pesce, A; Folguera, A -->
+<!---->
+<!--     doi: [10.1016/j.gr.2017.06.011](https://doi.org/10.1016/j.gr.2017.06.011) -->
+<!---->
+<!-- 2017 -->
+<!-- : **Analysis of the Illapel Mw=8.3 thrust earthquake rupture zone using GOCE derived gradients**, -->
+<!-- _Pure and Applied Geophysics_ -->
+<!---->
+<!--     Álvarez, O; Pesce, A; Gimenez, M; Folguera, A; Soler, S; Wenjin Chen -->
+<!---->
 
 ### Books Chapters
 
@@ -363,23 +362,24 @@ _Opening and Closure of the Neuquén Basin in the Southern Andes, Springer_
 
     doi: [10.1007/978-3-030-29680-3](https://doi.org/10.1007/978-3-030-29680-3)
 
-2019
-: **Along-strike segmentation of the Farallon-Phoenix midocean ridge: Insightsfrom the Paleogene tectonic evolution of the Patagonian Andes between 45º and 46º S**,
-_Andean Tectonics, Elsevier_
-
-    Gianni, G; Pesce, A, Garcia, H.P.A; Sánchez, M; Soler, S; Navarrete, C;
-    Echaurren, A; Encinas, A; Folguera, A
-
-    doi: [10.1016/B978-0-12-816009-1.00023-X](https://doi.org/10.1016/B978-0-12-816009-1.00023-X)
-
-2019
-: **Crustal structure in the southern Andes adjacent foreland and Atlantic passive margin delineated by satellite gravimetric models**,
-_Andean Tectonics, Elsevier_
-
-    Gimenez, M; Pesce, A; Pechuan, S; Areco,M. A; Soler, S. R; Correa Otto, S;
-    Lince Klinger, F; Alvarez, O; Folguera, A
-
-    doi: [10.1016/B978-0-12-816009-1.00002-2](https://doi.org/10.1016/B978-0-12-816009-1.00002-2)
+<!-- 2019 -->
+<!-- : **Along-strike segmentation of the Farallon-Phoenix midocean ridge: Insightsfrom the Paleogene tectonic evolution of the Patagonian Andes between 45º and 46º S**, -->
+<!-- _Andean Tectonics, Elsevier_ -->
+<!---->
+<!--     Gianni, G; Pesce, A, Garcia, H.P.A; Sánchez, M; Soler, S; Navarrete, C; -->
+<!--     Echaurren, A; Encinas, A; Folguera, A -->
+<!---->
+<!--     doi: [10.1016/B978-0-12-816009-1.00023-X](https://doi.org/10.1016/B978-0-12-816009-1.00023-X) -->
+<!---->
+<!-- 2019 -->
+<!-- : **Crustal structure in the southern Andes adjacent foreland and Atlantic passive margin delineated by satellite gravimetric models**, -->
+<!-- _Andean Tectonics, Elsevier_ -->
+<!---->
+<!--     Gimenez, M; Pesce, A; Pechuan, S; Areco,M. A; Soler, S. R; Correa Otto, S; -->
+<!--     Lince Klinger, F; Alvarez, O; Folguera, A -->
+<!---->
+<!--     doi: [10.1016/B978-0-12-816009-1.00002-2](https://doi.org/10.1016/B978-0-12-816009-1.00002-2) -->
+<!---->
 
 ### Conference proceedings and Talks
 
@@ -407,69 +407,70 @@ _EGU2020 General Assembly_
 
     doi: [10.5194/egusphere-egu2020-734](https://doi.org/10.5194/egusphere-egu2020-734)
 
-2018
-: **Análisis Isostático de los Andes Centrales Sur a Partir de la Ondulación del Geoide**,
-_XVII Reunión de Tectónica, La Rioja, Argentina_
-
-    Pesce, A. and Gimenez, M.
-
-    ISBN: 978-987-42-9619-1
-
-2017
-: **Magnetic characterization of the Loncopué trough, Neuquén, Argentina**,
-_XX Congreso Geológico Argentino_
-
-    Pesce, A; Gimenez, M; Folguera, A; Gianni, G; Soler, S. R.
-
-    ISBN: 978-987-42-6666-8
-
-2017
-: **Caracterización magnética de la fosa de Loncopué, Neuquén, Argentina**,
-_I Congreso Binacional de Investigación Científica (Argentina-Chile) y
-Encuentro de Jovenes Investigadores, San Juan, Argentina_
-
-    Agustina Pesce
-
-2016
-: **Estudio magnético, gravimétrico y magnetotelúrico de la fosa de Loncopué**,
-_Primer Simposio de Tectónica Sudamericana,Santiago de Chile, Chile_
-
-    Pesce, A; Gimenez, M; Folguera, A
-
-2015
-: **Análisis geodésico y gravimétrico preliminares la franja de 38º a 40º S de la cordillera de los Andes**,
-_XVI Reunión de Tectónica, Río Negro, Argentina_
-
-    Pesce, A; Gimenez, M; Introcaso, A; Guspí, F
-
-    ISBN: 978-987-3667-17-6
-
-2014
-: **Combinación de alturas del geoide y anomalías de aire libre para gran cantidad de observaciones**,
-_XXVII Reunión científica de la Asociación Argentina de Geofísicos y Geodestas,
-San Juan, Argentina_
-
-    Guspí, F;  Pesce, A
-
-    ISBN: 978-987-33-5605-6
-
-2014
-: **Distensión-compresión en los Andes del norte Argentino. Su explicación a partir de un modelo plástico actualizado**,
-_XXVII Reunión científica de la Asociación Argentina de Geofísicos y Geodestas,
-San Juan, Argentina_
-
-    Pesce, A; Novara, I; Introcaso, A
-
-    ISBN: 978-987-33-5605-6
-
-2014
-: **Análisis isostático preliminar de la región norte de la Patagonia, a partir de las ondulaciones del geoide**,
-_XXVII Reunión científica de la Asociación Argentina de Geofísicos y Geodestas,
-San Juan, Argentina_
-
-    Pesce, A; Gimenez, M; Guspí, F
-
-    ISBN: 978-987-33-5605-6
+<!-- 2018 -->
+<!-- : **Análisis Isostático de los Andes Centrales Sur a Partir de la Ondulación del Geoide**, -->
+<!-- _XVII Reunión de Tectónica, La Rioja, Argentina_ -->
+<!---->
+<!--     Pesce, A. and Gimenez, M. -->
+<!---->
+<!--     ISBN: 978-987-42-9619-1 -->
+<!---->
+<!-- 2017 -->
+<!-- : **Magnetic characterization of the Loncopué trough, Neuquén, Argentina**, -->
+<!-- _XX Congreso Geológico Argentino_ -->
+<!---->
+<!--     Pesce, A; Gimenez, M; Folguera, A; Gianni, G; Soler, S. R. -->
+<!---->
+<!--     ISBN: 978-987-42-6666-8 -->
+<!---->
+<!-- 2017 -->
+<!-- : **Caracterización magnética de la fosa de Loncopué, Neuquén, Argentina**, -->
+<!-- _I Congreso Binacional de Investigación Científica (Argentina-Chile) y -->
+<!-- Encuentro de Jovenes Investigadores, San Juan, Argentina_ -->
+<!---->
+<!--     Agustina Pesce -->
+<!---->
+<!-- 2016 -->
+<!-- : **Estudio magnético, gravimétrico y magnetotelúrico de la fosa de Loncopué**, -->
+<!-- _Primer Simposio de Tectónica Sudamericana,Santiago de Chile, Chile_ -->
+<!---->
+<!--     Pesce, A; Gimenez, M; Folguera, A -->
+<!---->
+<!-- 2015 -->
+<!-- : **Análisis geodésico y gravimétrico preliminares la franja de 38º a 40º S de la cordillera de los Andes**, -->
+<!-- _XVI Reunión de Tectónica, Río Negro, Argentina_ -->
+<!---->
+<!--     Pesce, A; Gimenez, M; Introcaso, A; Guspí, F -->
+<!---->
+<!--     ISBN: 978-987-3667-17-6 -->
+<!---->
+<!-- 2014 -->
+<!-- : **Combinación de alturas del geoide y anomalías de aire libre para gran cantidad de observaciones**, -->
+<!-- _XXVII Reunión científica de la Asociación Argentina de Geofísicos y Geodestas, -->
+<!-- San Juan, Argentina_ -->
+<!---->
+<!--     Guspí, F;  Pesce, A -->
+<!---->
+<!--     ISBN: 978-987-33-5605-6 -->
+<!---->
+<!-- 2014 -->
+<!-- : **Distensión-compresión en los Andes del norte Argentino. Su explicación a partir de un modelo plástico actualizado**, -->
+<!-- _XXVII Reunión científica de la Asociación Argentina de Geofísicos y Geodestas, -->
+<!-- San Juan, Argentina_ -->
+<!---->
+<!--     Pesce, A; Novara, I; Introcaso, A -->
+<!---->
+<!--     ISBN: 978-987-33-5605-6 -->
+<!---->
+<!-- 2014 -->
+<!-- : **Análisis isostático preliminar de la región norte de la Patagonia, a partir de las ondulaciones del geoide**, -->
+<!-- _XXVII Reunión científica de la Asociación Argentina de Geofísicos y Geodestas, -->
+<!-- San Juan, Argentina_ -->
+<!---->
+<!--     Pesce, A; Gimenez, M; Guspí, F -->
+<!---->
+<!--     ISBN: 978-987-33-5605-6 -->
+<!---->
 
 ## Technical Skills
 
