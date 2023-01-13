@@ -1,10 +1,11 @@
 # Curriculum Vitae
 
-An HTML version of the academic CV can be found at
-https://aguspesce.github.io/cv .
+Sources for my old CV written using `pandoc` and markdown.
 
-My CV is also available in a
-[PDF versions](https://raw.githubusercontent.com/aguspesce/cv/gh-pages/cv_en.pdf).
+## Updated CV
+
+You can download an updated version of my resume at
+[https://github.com/aguspesce/cv-latex](https://github.com/aguspesce/cv-latex)
 
 It uses `pandoc` for creating a html version of the CV with a
 [nice CSS stylesheet](https://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html),
